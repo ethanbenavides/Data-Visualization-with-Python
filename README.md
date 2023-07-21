@@ -18,6 +18,6 @@ This course teaches how to present and visualize complex data in a manner that m
 - Using Dash and basic Dash components (core and HTML).
 
 ## Certificates
-Verification of the certificate can be found [here](https://www.coursera.org/account/accomplishments/verify/GU2YDGBS8XFL):
+Certificate verification can be found [here](https://www.coursera.org/account/accomplishments/verify/GU2YDGBS8XFL):
 
 ![image](https://github.com/ethanbenavides/Data-Visualization-with-Python/assets/57383185/30ae0785-ad0b-4b71-9b4e-aebb4a39e8d7)
